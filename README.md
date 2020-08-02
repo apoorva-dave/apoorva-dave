@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/apoorva-dave/apoorva-dave/master/hello.jpg" alt="Hello world">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/apoorva-dave/count.svg" />
+</p>
 
 ## About me
 
