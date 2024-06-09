@@ -1,4 +1,3 @@
-![Hello I'm Apoorva Dave](Hello.gif)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/apoorva-dave/count.svg" />
